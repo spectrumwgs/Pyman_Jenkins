@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: postpython
+Version: 0.1.2
+Summary: A library to use postman collection in python.
+Home-page: https://github.com/k3rn3l-p4n1c/postpython
+Author: Bardia Heydari nejad
+Author-email: bardia.heydarinejad@gmail.com
+License: UNKNOWN
+Download-URL: https://codeload.github.com/k3rn3l-p4n1c/postpython/zip/master
+Description: UNKNOWN
+Keywords: postman,rest,api
+Platform: UNKNOWN
